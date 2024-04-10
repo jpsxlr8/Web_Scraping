@@ -1,4 +1,4 @@
-# Web_Scraping
+# web scraping
 Scraping html elements from a webpage.<br>
 Create a database from scratch by extracting html elements from a webpage<br>
 Modules Used:` Urllib.request, BeautifulSoup, Regex and Pandas.`<br>
